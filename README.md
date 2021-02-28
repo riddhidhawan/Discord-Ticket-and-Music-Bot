@@ -86,7 +86,7 @@ Mr. Fixit is an interactive ticketing discord bot which helps the user to get th
 
  
 
-Contributors: 
+## Contributors: 
 > - Adeel Abdul Sakkeer 
 > - Riddhi Dhawan 
 > - Daniya Deo 
