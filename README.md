@@ -1,4 +1,4 @@
-AMONG US HACK: Mr. Fixit----Mrs. Jazzy 
+#AMONG US HACK: Mr. Fixit----Mrs. Jazzy 
 
  
 
@@ -6,11 +6,11 @@ Mr. Fixit is an interactive ticketing discord bot which helps the user to get th
 
  
 
-1.Ticketing Bot 
+>1.Ticketing Bot 
 
-Features 
+>Features 
 
-   Add and Remove: 
+   >Add and Remove: 
 
     Participants are given the ability to add and remove themselves from the queue. 
 
